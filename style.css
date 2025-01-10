@@ -1,0 +1,257 @@
+body {
+    font-family: "Inter";
+    background-color: #111;
+    color: #fff;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    cursor: default;
+}
+
+.div__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.div__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1__title {
+    font-size: 38px;
+    margin-right: 30px;
+    cursor: default;
+}
+
+.h2__title {
+    display: flex;
+    font-size: 66px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.button__info {
+    display: flex;
+    border-radius: 7px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 20px;
+    font-weight: bold;
+    font-size: 21px;
+    box-sizing: border-box;
+}
+
+.button--free {
+    border: 2px solid #1DB5BE;
+    color: #2A4E51;
+    background-color: #D5FAFC;
+    cursor: default;
+}
+
+.button--version {
+    color: #EDE9FE;
+    background-color: #4C1D95;
+    border: 2px solid #7C3AED;
+    margin-right: 10px;
+}
+
+.logo__title {
+    width: 90px;
+    height: 90px;
+    margin-right: 10px;
+}
+
+.button__dowload {
+    border: none;
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+
+.button__dowload {
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 22px;
+    color: #eee;
+    border: 1px solid #eee;
+    transition-property: background-color, transform;
+    transition-duration: 500ms;
+}
+
+.button__dowload:hover {
+    background-color: #fff;
+    color: #000;
+    transform: scale(1.05);
+}
+
+.div__dowload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.button__github {
+    margin: 10px;
+    background-color: #632fb2;
+    padding: 13px 30px;
+    border-radius: 7px;
+    transition-property: background-color, color, transform;
+    transition-duration: 500ms;
+    text-decoration: none;
+    color: #eee;
+    font-size: 18px;
+    box-sizing: border-box;
+    border: 1px solid #7050a1;
+}
+
+.button__github:hover {
+    background-color: #fff;
+    color: #000;
+    transform: scale(1.05);
+}
+
+.img__github {
+    width: 50px;
+    height: 50px;
+}
+
+.img__showcase {
+    border-radius: 10px;
+    width: 88%;
+    margin-top: 40px;
+}
+
+.a__moreversions {
+   color: #999;
+   text-align: center;
+   display: flex;
+   font-size: 14px;
+   justify-content: center;
+   text-decoration: none;
+   transition-property: color, transform;
+   transition-duration: 500ms;
+}
+
+.a__moreversions:hover {
+    color: #eee;
+    transform: scale(1.05);
+}
+
+.div__profile {
+    display: inline-flex;
+    background-color: #eee;
+    color: #111;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-bottom: 100px;
+}
+
+.profile_logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    margin-right: 20px;
+}
+
+.div__moreinfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2__openinfo {
+    font-size: 60px;
+    text-align: center;
+}
+
+.a__follow {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #111;
+    color: #fff;
+    font-size: 16px;
+    transition-property: transform, color, border;
+    transition-duration: 500ms;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.h2__profilename {
+    margin-right: 10px;
+}
+
+.a__follow:hover {
+    transform: scale(1.05);
+    border: 2px solid #111;
+    background-color: transparent;
+    color: #111;
+}
+
+.img__padlock {
+    width: 200px;
+    height: 200px;
+}
+
+.div__privacity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:50px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.features-row {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #111;
+    border-radius: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap ;
+    margin: 65px;
+}
+
+.feature-block {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(235, 231, 231, 0.1);
+    text-align: center;
+    font-weight: bold;
+    flex: 1;
+    color: #111;
+    margin: 0 10px;
+    margin-bottom: 20px;
+}
+.h3__features {
+    font-size: 30px;
+}
+
+.p__features {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+footer {
+    display: flex;
+    background-color: #333;
+    width: 100%;
+    height: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    justify-content: center;
+}
+
+.h3__footer {
+    text-align: center;
+    font-size: 25px;
+}
