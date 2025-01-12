@@ -7,4 +7,4 @@ Open Source Minecraft Launcher built in Python. Download now for free.
 
 Visita nuestro [sitio web](https://wyxemon.github.io/MinePy-Launcher/index.html) para más información.
 
-![Launcher](images/background.png)
+![Launcher Image](images/background.png)
