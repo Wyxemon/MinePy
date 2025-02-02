@@ -6,6 +6,7 @@ body {
     width: 100vw;
     height: 100vh;
     cursor: default;
+    overflow-x: hidden; /* Añadir esta línea */
 }
 
 * {
@@ -36,6 +37,8 @@ body {
     font-size: 66px;
     font-weight: bold;
     margin-left: 20px;
+    text-align: center;
+    
 }
 
 .button__info {
