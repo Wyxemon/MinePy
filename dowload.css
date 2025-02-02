@@ -8,6 +8,7 @@ body {
     flex-direction: column;
     align-items: center;
     cursor: default;
+    overflow-x: hidden; /* Añadir esta línea */
 }
 
 .header {
