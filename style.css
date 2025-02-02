@@ -185,7 +185,7 @@ body {
     background-color: #111;
     color: #fff;
     font-size: 16px;
-    transition-property: transform, color, border;
+    transition-property: transform, color;
     transition-duration: 500ms;
     cursor: pointer;
     text-decoration: none;
