@@ -1,6 +1,6 @@
 # MinePy-Launcher
 
-MinePy-Launcher is an **open-source Minecraft launcher** built in **Python**. Download it now for free and discover new possibilities!
+MinePy is an **open-source Minecraft Launcher** built in **Python**. Download it now for free and discover new possibilities!
 
 ![Launcher Image](images/background.png)
 
@@ -8,18 +8,16 @@ MinePy-Launcher is an **open-source Minecraft launcher** built in **Python**. Do
 
 ## ⬇️ Download
 
-Choose your operating system to download MinePy-Launcher:
+Dowload MinePy for Windows:
 
-- [Download for macOS](https://github.com/Wyxemon/MinePy-Launcher/releases/tag/0.1v)
 - [Download for Windows](https://github.com/Wyxemon/MinePy-Launcher/releases/tag/0.1v)
-- [Download for Linux](https://github.com/Wyxemon/MinePy-Launcher/releases/tag/0.1v)
 
 ---
 
 ## 🌐 Visit Our Website
 
 For more information and detailed documentation, visit our official website:  
-[MinePy-Launcher Website](https://mine-py-launcher.vercel.app/)
+[MinePy-Launcher Website](https://mine-py-web.vercel.app/)
 
 ---
 
