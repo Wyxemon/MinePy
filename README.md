@@ -17,7 +17,7 @@ Dowload MinePy for Windows:
 ## 🌐 Visit Our Website
 
 For more information and detailed documentation, visit our official website:  
-[MinePy-Launcher Website](https://mine-py-web.vercel.app/)
+[MinePy Website](https://mine-py-web.vercel.app/)
 
 ---
 
