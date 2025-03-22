@@ -10,7 +10,7 @@ MinePy is an **open-source Minecraft Launcher** built in **Python**. Download it
 
 Dowload MinePy for Windows:
 
-- [Download for Windows](https://github.com/Wyxemon/MinePy-Launcher/releases/tag/0.1v)
+- [Download for Windows](https://github.com/Wyxemon/MinePy/releases/tag/0.1v)
 
 ---
 
@@ -27,4 +27,4 @@ Follow these steps to install and run MinePy-Launcher on your local machine:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Wyxemon/MinePy-Launcher.git
+   git clone https://github.com/Wyxemon/MinePy.git
