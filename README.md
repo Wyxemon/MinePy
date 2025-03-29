@@ -1,4 +1,4 @@
-# MinePy-Launcher
+# MinePy
 
 MinePy is an **open-source Minecraft Launcher** built in **Python**. Download it now for free and discover new possibilities!
 
